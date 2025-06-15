@@ -1,5 +1,5 @@
 
-# **GeoSentinel: Real-Time Conflict Surveillance System** 🗺️
+# **GeoSentinel: Real-Time Conflict Surveillance System** 🗺
 
 ## **Overview**
 **GeoSentinel** is a real-time conflict surveillance and crisis analysis platform that provides actionable insights into global conflict zones. By integrating data from sources like the **ACLED conflict event database** , GeoSentinel offers a comprehensive view of ongoing crises. The project automates data collection, classification, and visualization, aiming to assist decision-makers in understanding and responding to conflict scenarios effectively.
